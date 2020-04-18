@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
        activityMainBinding.setClickinmain(mainviewmodel1);
 
 String name="my name is Abhishek";
+Boolean True=false;
     }
 
 
