@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
            mainviewmodel= ViewModelProviders.of(this).get(Mainviewmodel.class);
            mainviewmodel1=new Mainviewmodel(getApplication(),this);
 
-
+//hi my name is ahiishek
        activityMainBinding.setClickinmain(mainviewmodel1);
     }
 
