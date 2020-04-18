@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity implements MainView {
 
 //hi my name is ahiishek
        activityMainBinding.setClickinmain(mainviewmodel1);
+
+String name="my name is Abhishek";
     }
 
 
